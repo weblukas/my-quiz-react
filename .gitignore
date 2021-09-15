@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+gitkraken_rsa
+gitkraken_rsa.pub

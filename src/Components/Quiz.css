@@ -1,0 +1,54 @@
+
+.option_indicator {
+    margin-right: 60%;
+}
+
+.answer-btn {
+    padding: 10px 15px;
+    padding: 10px 15px;
+    border-radius: 6px;
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+    cursor: pointer;
+    border: none;
+}
+
+.next-question-btn {
+    padding: 10px 15px;
+    padding: 10px 15px;
+    border-radius: 6px;
+    border: none;
+    width: 30%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    background-color: rgb(78, 146, 223);
+}
+
+.default-answer-color {
+    background-color: rgb(78, 146, 223);
+    width: 60%;
+}
+
+.correct-answer-color {
+    background-color: rgb(88, 189, 20);
+}
+
+.uncorrect-answer-color {
+    background-color: rgb(216, 29, 66);
+}
+
+.alternate-color {
+    background-color: chocolate;
+}
+
+.answer-correct {
+    background-color: rgb(88, 189, 20);
+
+}
+.answer-incorrect {
+    background-color: rgb(216, 29, 66);
+}
+
